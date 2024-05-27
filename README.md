@@ -1,11 +1,3 @@
-   _____ _           _     _  ___ _ _           
-  / ____| |         | |   | |/ (_) | |          
- | |    | |__   __ _| |_  | ' / _| | | ___ _ __ 
- | |    | '_ \ / _` | __| |  < | | | |/ _ \ '__|
- | |____| | | | (_| | |_  | . \| | | |  __/ |   
-  \_____|_| |_|\__,_|\__| |_|\_\_|_|_|\___|_|   
-                                                
-
 
 Prénom: Marius
 Date-deb: 17/04/2024
@@ -41,7 +33,6 @@ Note: un Readme.md est aussi disponible dans la stable_v1 du projet
 
 
 Merci,
-Casamian Marius
 
 En espérant que tout fonctionne bien pour vous.
 
